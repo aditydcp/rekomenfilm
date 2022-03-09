@@ -20,8 +20,7 @@ Sistem rekomendasi dapat membuat pengguna dapat lebih mudah memilih film. Akan t
 
 Dibanding dengan kompetitor PickAMovieForMe, SuggestMeMovie, dan SuggestStream, RekomenFilm memiliki keunggulan dalam sistem rekomendasi yang mudah dan intuitif (tidak terlalu teknis), menampilkan nilai rating film dari berbagai sumber, serta juga menyertakan film dari Indonesia.
 
-Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**
-
+Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**<br>
 Beranggotakan :
 - Anas Syahirul Alim (19/439809/TK/48539)
 - Aditya Dwi Cahyo Putra (19/444035/TK/49231)
