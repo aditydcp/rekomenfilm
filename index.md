@@ -2,7 +2,23 @@
 
 ### Apa itu RekomenFilm?
 
-*insert jawaban modul 1*
+RekomenFilm adalah sistem rekomendasi film menggunakan kecerdasan buatan. Jawab beberapa pertanyaan saja, dan sistem akan merekomendasikan film untukmu!
+
+### Latar Belakang dibuat RekomenFilm bagaimana?
+
+Produk yang relevan dengan pengguna memiliki kemungkinan lebih tinggi untuk dibeli atau dipakai pengguna (Towards Data Science). Film, sama seperti produk lainnya, jumlahnya sangat banyak sehingga dapat membuat pengguna bingung memilih.  
+
+Sistem rekomendasi dapat membuat pengguna dapat lebih mudah memilih film. Akan tetapi, hingga saat ini belum ditemukan kompetitor serupa di Indonesia. Sistem rekomendasi film berbasis web yang ditemukan biasanya berbahasa Inggris, dan merekomendasikan film berbahasa Inggris pula. Oleh karena itu, dengan adanya sistem rekomendasi berbahasa Indonesia dan memuat film Indonesia, diharapkan dapat menambah relevansi dengan pengguna di Indonesia.  
+
+### Bagaimana Permasalahannya?
+
+- Bagaimana sistem rekomendasi film membantu pengguna? 
+- Bagaimana karakteristik pengguna yang akan menggunakan aplikasi ini? 
+- Bagaimana situs rekomendasi film yang baik bagi pengguna? 
+
+### Membandingkan dengan Kompetitor
+
+Dibanding dengan kompetitor PickAMovieForMe, SuggestMeMovie, dan SuggestStream, RekomenFilm memiliki keunggulan dalam sistem rekomendasi yang mudah dan intuitif (tidak terlalu teknis), menampilkan nilai rating film dari berbagai sumber, serta juga menyertakan film dari Indonesia.
 
 Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**
 
