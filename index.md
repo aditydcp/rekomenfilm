@@ -36,6 +36,39 @@ Kami ingin membantu penikmat film dalam mencari dan menentukan film untuk ditont
 
 RekomenFilm terbuka untuk siapapun bagi yang ingin mencari film untuk ditonton! Pada dasarnya, kami berharap kami dapat membantu penikmat film untuk dapat memilih film untuk ditonton. Kadang kita sering merasa terlalu banyak pilihan, dan kadang kita merasa tidak tahu mau menonton film apa, dan keduanya membingungkan. Kami harap RekomenFilm dapat membantu di situasi seperti itu!
 
+### 4. Agak teknis dikit, boleh tahu tidak Use Case Diagramnya seperti apa?
+
+Boleh! Bisa dicek di bawah ini!
+
+### 5. *Functional Requirement* untuk RekomenFilm seperti apa?
+
+Diharapkan platform RekomenFilm dapat memiliki fitur-fitur seperti:<br>
+- Pengguna dapat menggunakan produk tanpa sistem login/otentikasi.
+- Pengguna dapat mencari rekomendasi film berdasarkan hasil kuesioner dan isian preferensi.
+- Pengguna dapat mengisi kuesioner dengan semua pertanyaan diwajibkan untuk diisi.
+- Pengguna dapat mengisi isian preferensi secara opsional.
+- Sistem rekomendasi dapat mengolah hasil kuesioner dan isian preferensi untuk memberikan setidaknya 3 rekomendasi film. Film dengan skor rekomendasi tertinggi akan ditampilkan pertama kali. 
+- Sistem rekomendasi menggunakan teknologi Artificial Intelligence.
+- Sistem rekomendasi memilih film yang ada di dalam basis data film.
+- Basis data hanya dapat dimanipulasi oleh AI Engineer dari tim RekomenFilm.
+- Pengguna dapat segera mencari rekomendasi baru setelah mendapatkan rekomendasi sebelumnya. 
+
+### 6. Bagaimana dengan *Entity Relationship Diagram*-nya?
+
+ERD dapat dilihat di bawah ini:
+
+### 7. Ada *spoiler* untuk tampilan web tidak? *Low-fidelity wireframe* misalnya?
+
+Ada! Ini adalah *Lo-fi wireframe* untuk:
+
+- Home page,
+- Halaman Kuesioner,
+- Halaman Rekomendasi.
+
+### 8. Bagaimana rencana pengembangan RekomenFilm kedepannya?
+
+Dapat dilihat di Gantt chart di bawah ini. Pada intinya, kami mengharapkan RekomenFilm dapat diselesaikan sebelum selesainya Proyek Senior!
+
 Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**<br>
 Beranggotakan :
 - Anas Syahirul Alim (19/439809/TK/48539)
