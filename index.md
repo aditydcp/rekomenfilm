@@ -38,7 +38,8 @@ RekomenFilm terbuka untuk siapapun bagi yang ingin mencari film untuk ditonton! 
 
 ### 4. Agak teknis dikit, boleh tahu tidak Use Case Diagramnya seperti apa?
 
-Boleh! Bisa dicek di bawah ini!
+Boleh! Bisa dicek di bawah ini!<br>
+![Gambar Use Case Diagram](/assets/Untitled Diagram-Use Case Diagram.jpg)
 
 ### 5. *Functional Requirement* untuk RekomenFilm seperti apa?
 
@@ -55,19 +56,21 @@ Diharapkan platform RekomenFilm dapat memiliki fitur-fitur seperti:<br>
 
 ### 6. Bagaimana dengan *Entity Relationship Diagram*-nya?
 
-ERD dapat dilihat di bawah ini:
+ERD dapat dilihat di bawah ini:<br>
+![Entity Relationship Diagram](/assets/Untitled Diagram-ERD.jpg)
 
 ### 7. Ada *spoiler* untuk tampilan web tidak? *Low-fidelity wireframe* misalnya?
 
 Ada! Ini adalah *Lo-fi wireframe* untuk:
 
-- Home page,
-- Halaman Kuesioner,
-- Halaman Rekomendasi.
+- Home page,<br>![Lo-Fi Wireframe Home Page](/assets/lo-fi Homepage.jpg)
+- Halaman Kuesioner,<br>![Lo-Fi Wireframe Halaman Kuesioner](/assets/lo-fi kuisioner.jpg)
+- Halaman Rekomendasi.<br>![Lo-Fi Wireframe Halaman Rekomendasi](/assets/lo-fi hasil.jpg)
 
 ### 8. Bagaimana rencana pengembangan RekomenFilm kedepannya?
 
-Dapat dilihat di Gantt chart di bawah ini. Pada intinya, kami mengharapkan RekomenFilm dapat diselesaikan sebelum selesainya Proyek Senior!
+Dapat dilihat di Gantt chart di bawah ini. Pada intinya, kami mengharapkan RekomenFilm dapat diselesaikan sebelum selesainya Proyek Senior!<br>
+![Gantt Chart Pengembangan RekomenFilm](/assets/timeline mekar mulya.jpg)
 
 ### 9. Siapa yang terlibat dalam pengembangan RekomenFilm?
 
