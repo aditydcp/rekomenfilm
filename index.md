@@ -53,6 +53,7 @@ Diharapkan platform RekomenFilm dapat memiliki fitur-fitur seperti:<br>
 - Sistem rekomendasi memilih film yang ada di dalam basis data film.
 - Basis data hanya dapat dimanipulasi oleh AI Engineer dari tim RekomenFilm.
 - Pengguna dapat segera mencari rekomendasi baru setelah mendapatkan rekomendasi sebelumnya. 
+- Pengguna dapat mengakses akun media sosial RekomenFilm melalui Home Page
 
 ### 6. Bagaimana dengan *Entity Relationship Diagram*-nya?
 
