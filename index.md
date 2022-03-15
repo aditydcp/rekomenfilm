@@ -20,6 +20,22 @@ Sistem rekomendasi dapat membuat pengguna dapat lebih mudah memilih film. Akan t
 
 Dibanding dengan kompetitor PickAMovieForMe, SuggestMeMovie, dan SuggestStream, RekomenFilm memiliki keunggulan dalam sistem rekomendasi yang mudah dan intuitif (tidak terlalu teknis), menampilkan nilai rating film dari berbagai sumber, serta juga menyertakan film dari Indonesia.
 
+## Frequently Asked Questions (FAQ)
+
+### 1. Metodologi SDLC apa yang digunakan?
+
+#### Agile dengan Framework Scrum.
+
+Kami yakin bahwa Agile merupakan cara terbaik untuk mengembangkan RekomenFilm. Agile dapat menyesuaikan tahap-tahap pengembangan RekomenFilm dengan modul-modul yang didapatkan di Proyek Senior, sehingga setelah materi selesai diberikan, RekomenFilm akan langsung dikembangkan!
+
+### 2. Apa tujuan dari RekomenFilm?
+
+Kami ingin membantu penikmat film dalam mencari dan menentukan film untuk ditonton berdasarkan preferensi pengguna. Secara tidak langsung, kami juga mempromosikan film kepada pengguna, yang dapat menguntungkan terutama untuk studio kecil!
+
+### 3. Target pengguna RekomenFilm seperti apa?
+
+RekomenFilm terbuka untuk siapapun bagi yang ingin mencari film untuk ditonton! Pada dasarnya, kami berharap kami dapat membantu penikmat film untuk dapat memilih film untuk ditonton. Kadang kita sering merasa terlalu banyak pilihan, dan kadang kita merasa tidak tahu mau menonton film apa, dan keduanya membingungkan. Kami harap RekomenFilm dapat membantu di situasi seperti itu!
+
 Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**<br>
 Beranggotakan :
 - Anas Syahirul Alim (19/439809/TK/48539)
