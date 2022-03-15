@@ -69,6 +69,8 @@ Ada! Ini adalah *Lo-fi wireframe* untuk:
 
 Dapat dilihat di Gantt chart di bawah ini. Pada intinya, kami mengharapkan RekomenFilm dapat diselesaikan sebelum selesainya Proyek Senior!
 
+### 9. Siapa yang terlibat dalam pengembangan RekomenFilm?
+
 Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**<br>
 Beranggotakan :
 - Anas Syahirul Alim (19/439809/TK/48539)
