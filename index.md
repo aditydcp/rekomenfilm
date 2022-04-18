@@ -73,7 +73,20 @@ Ada! Ini adalah *Lo-fi wireframe* untuk:
 Dapat dilihat di Gantt chart di bawah ini. Pada intinya, kami mengharapkan RekomenFilm dapat diselesaikan sebelum selesainya Proyek Senior!<br>
 ![Gantt Chart Pengembangan RekomenFilm](/assets/timeline mekar mulya.jpg)
 
-### 9. Siapa yang terlibat dalam pengembangan RekomenFilm?
+### 9. Seperti apa nih skema arsitekturnya?
+
+Dengan menggunakan layanan Azure Cloud, kami merencanakan skema arsitektur seperti di bawah ini.<br>
+![Skema Arsitektur Cloud](/assets/Skematik Arsitektur Cloud.png)
+<br>
+
+Berikut paparan terkait skema di atas.
+
+- Dataset film diambil dari database TMDB (The Movie Database) dan disimpan ke dalam Azure SQL.
+- Machine Learning Model akan di-training dalam Azure Machine Learning Workspace untuk mendapatkan *similiarity* antarfilm. Data yang digunakan untuk training adalah dataset yang disimpan di dalam Azure SQL.
+- Model yang telah di-*train* kemudian di-*deploy* ke dalam Azure Container Instance bersama dengan web app-nya.
+- User dapat memilih 1 film dari database dan kemudian akan mendapatkan tampilan 4 film lain yang "mirip" (ditentukan melalui skor *similiarity*). Gambar cover film dan data-data lainnya yang muncul dalam laman tersebut diperoleh menggunakan *API Request* ke TMDB.
+
+### 10. Siapa yang terlibat dalam pengembangan RekomenFilm?
 
 Sistem ini dikembangkan oleh **Mekar Mulya Soft Ltd.**<br>
 Beranggotakan :
