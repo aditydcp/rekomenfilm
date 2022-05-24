@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+}
+
+.main-result{
+    padding:80px;
+    line-height:auto;
+}
+
+.main-result h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color:#303030;
+    font-size:30px;
+    margin-bottom: 20px;
+}
+
+.main-result .result-card {
+    padding:10px;
+    justify-content: center;
+    display:flex;
+    width:fit-content;
+    border-radius: 6px;
+    margin:auto;
+    align-items: center;
+    /*border: 2px solid black;*/
+    background-color: #252525;
+    box-shadow: 0px 0px 15px #303030a8;
+}
+
+.column {
+float: left;
+margin:10px;
+}
+
+.column.left {
+    width:200px;
+}
+
+.column.right {
+    width:300px
+}
+
+.column img{
+    width:200px;
+    height:300px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px #0a0a0a80;
+}
+
+.row-title {
+    height:20px;
+    padding:0px;
+    margin: 10px 0px 20px 0px; 
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.row-title h2 {
+    font-size:24px;
+    font-weight: 400px;
+    border-bottom:1px solid #ffffff79;
+}
+
+.row-rating {
+
+    margin: 30px 0px 10px 0px; 
+    border-bottom:0.5px solid #ffffff79;
+    padding-bottom:8px;
+    
+}
+
+.row-rating p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: medium;
+    margin-left: 10px;
+    font-size:16px;
+    color:#ffffff;
+}
+
+.row-rating i {
+    font-size:20px;
+    color:#f5e538;
+}
+
+.row-desc {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size:12px;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+.btn-next {
+    background-color: #22a6b3; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin:auto;
+    margin-top:30px;
+    border-radius:6px;
+    transition:0.5s;
+  }
+
+.btn-next:hover {
+    background-color: #5b93f5;
+    transition:0.5s;
+}
+
+.btn-next a {
+    padding: 12px 24px;
+    text-decoration: none;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.row-trailer button {
+    background-color: white; /* Green */
+    border: none;
+    color: #303030;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    margin:auto;
+    height:30px;
+    margin-top:30px;
+    border-radius:4px;
+    transition:0.5s;
+}
+
+.row-trailer button a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color:#303030;
+}
+
+.row-trailer p {
+    margin-left :10px;
+    font-size:14px;
+    color:#303030;
+    font-family: 'Poppins', sans-serif;
+}
